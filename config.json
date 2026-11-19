@@ -58,6 +58,13 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "building-rest-apis-with-fastapi",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Create an in-memory reading list API and practice REST endpoints, validation, and status codes with FastAPI.",
+      "path": "assignments/building-rest-apis-with-fastapi",
+      "dueDate": "2026-11-26"
     }
   ]
 }
