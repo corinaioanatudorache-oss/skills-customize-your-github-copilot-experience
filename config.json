@@ -65,6 +65,35 @@
       "description": "Create an in-memory reading list API and practice REST endpoints, validation, and status codes with FastAPI.",
       "path": "assignments/building-rest-apis-with-fastapi",
       "dueDate": "2026-11-26"
+    },
+    {
+      "id": "github-actions-python-checks",
+      "title": "Automated Python Checks with GitHub Actions",
+      "description": "Create a CI workflow that runs Python tests automatically on pushes and pull requests.",
+      "path": "assignments/github-actions-python-checks",
+      "dueDate": "2026-12-01",
+      "attachments": [
+        {
+          "name": "Calculator Starter Code",
+          "file": "calculator.py",
+          "type": "python"
+        },
+        {
+          "name": "Calculator Tests",
+          "file": "test_calculator.py",
+          "type": "python"
+        },
+        {
+          "name": "Workflow Starter",
+          "file": "starter-workflow.yml",
+          "type": "yaml"
+        },
+        {
+          "name": "Python Dependencies",
+          "file": "requirements.txt",
+          "type": "txt"
+        }
+      ]
     }
   ]
 }
